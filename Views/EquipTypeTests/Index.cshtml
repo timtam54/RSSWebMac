@@ -1,0 +1,55 @@
+﻿@model IEnumerable<RoofSafety.Models.EquipTypeTest>
+@{
+    ViewData["Title"] = "Tests for " + @ViewBag.EquipTypeDesc;
+}
+<h1>Tests for @ViewBag.EquipTypeDesc</h1>
+<p>
+    <a asp-action="Create" asp-route-id="@ViewBag.EquipTypeID">Add New Tests</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th hidden="hidden">
+                @Html.DisplayNameFor(model => model.EquipTypeID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Test)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Severity)
+            </th>
+@*            <th>
+                @Html.DisplayNameFor(model => model.HazardIfNonCompliant)
+            </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td hidden="hidden">
+                @Html.DisplayFor(modelItem => item.EquipTypeID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Test)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Severity)
+            </td>
+@*            <td>
+                @Html.DisplayFor(modelItem => item.HazardIfNonCompliant)
+            </td>*@
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id"><img src="~/Image/Edit.png" /></a> |
+                <a asp-action="Delete" asp-route-id="@item.id"><img src="~/Image/delete.png" /></a>
+            </td>
+        </tr>
+}
+<tr>
+    <td>
+
+        <a asp-action="Index" asp-controller="EquipTypes">Back to Inspection Item Types</a>
+    </td>
+        </tr>
+    </tbody>
+</table>

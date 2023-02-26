@@ -1,0 +1,221 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RoofSafety
+build_property.RootNamespace = RoofSafety
+build_property.ProjectDir = /Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Buildings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnVpbGRpbmdzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Buildings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnVpbGRpbmdzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Buildings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnVpbGRpbmdzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Buildings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnVpbGRpbmdzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Buildings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnVpbGRpbmdzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50cy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50cy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Clients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50cy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50cy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypeTestHazards/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlVGVzdEhhemFyZHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypeTestHazards/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlVGVzdEhhemFyZHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypeTests/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlVGVzdHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypeTests/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlVGVzdHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypeTests/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlVGVzdHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypeTests/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlVGVzdHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/EquipTypeTests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXF1aXBUeXBlVGVzdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Hazards/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGF6YXJkcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspectionEquipments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbkVxdWlwbWVudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspectionEquipments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbkVxdWlwbWVudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspectionEquipments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbkVxdWlwbWVudHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspectionEquipments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbkVxdWlwbWVudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspectionEquipments/EquipForInspectionsAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbkVxdWlwbWVudHMvRXF1aXBGb3JJbnNwZWN0aW9uc0FsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspectionEquipments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbkVxdWlwbWVudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Inspections/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Inspections/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Inspections/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Inspections/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Inspections/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcGVjdGlvbnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspEquipTypeTests/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcEVxdWlwVHlwZVRlc3RzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspEquipTypeTests/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcEVxdWlwVHlwZVRlc3RzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspEquipTypeTests/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcEVxdWlwVHlwZVRlc3RzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspEquipTypeTests/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcEVxdWlwVHlwZVRlc3RzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/InspEquipTypeTests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSW5zcEVxdWlwVHlwZVRlc3RzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/timhams/Downloads/RoofSafetySolutions-CosmeticStylingFinish 2/RoofSafety/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a1rdxhqn25
