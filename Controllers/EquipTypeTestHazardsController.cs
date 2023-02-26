@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using RoofSafety.Data;
-using RoofSafety.Models;
+using RoofSafety.Models ;
 
 namespace RoofSafety.Controllers
 {
